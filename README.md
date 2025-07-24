@@ -18,7 +18,7 @@ A **simple Flappy Bird clone** (~100 lines of code) built using **Python** and t
 
 ## 📦 Installation
 
-### 1. Install Python (>= 3.13)
+### 1. Install Python (3.13)
 
 ### 2. Install the `pygame` library:
 
